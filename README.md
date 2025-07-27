@@ -1,6 +1,6 @@
 # 🌱 PvZ Fusion English 2.7.1 
 
-![PvZ Fusion Banner](https://via.placeholder.com/800x300?text=PvZ+Fusion+2.7.1) *Replace with actual screenshot*
+
 
 > ℹ️ **Unofficial English Patch**  
 > This is a fan-made localization mod for PvZ Fusion (Chinese mod).  
